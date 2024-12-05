@@ -1,0 +1,3 @@
+[submodule "LLM/SC4001-NLarge"]
+	path = LLM/SC4001-NLarge
+	url = https://github.com/HiIAmTzeKean/SC4001-NLarge
